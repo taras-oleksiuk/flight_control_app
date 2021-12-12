@@ -10,9 +10,10 @@ It's a simple app with a hardcoded DB that shows several features for flight.
 ## Technologies
 * Java 8
 * Spring boot
+* Lombol
 * log4j
 * Maven
 
 ## SetUp
 * 1 clone the repository into your IDE
-* 2 Java 8 
+* 2 Java 8 (should be supported)
