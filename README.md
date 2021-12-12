@@ -10,7 +10,7 @@ It's a simple app with a hardcoded DB that shows several features for flight.
 ## Technologies
 * Java 8
 * Spring boot
-* Lombol
+* Lombok
 * log4j
 * Maven
 
